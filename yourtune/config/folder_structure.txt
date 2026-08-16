@@ -1,0 +1,12 @@
+└── config
+    ├── __init__.py
+    ├── asgi.py
+    ├── settings.py
+    ├── urls.py
+    ├── wsgi.py
+    ├── __pycache__ [содержимое скрыто]
+    └── settings
+        ├── __init__.py
+        ├── base.py
+        ├── dev.py
+        └── prod.py
